@@ -66,7 +66,7 @@ A professional investment portfolio tracking application built with Next.js 14, 
 
 ### Installation
 
-1. Install dependencies (already done)
+1. Install dependencies
 ```bash
 npm install
 ```
