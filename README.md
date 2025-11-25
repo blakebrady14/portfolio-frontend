@@ -1,6 +1,6 @@
 # Investment Portfolio Manager
 
-A professional investment portfolio tracking application written by Blake Brady and built with Next.js 14, TypeScript, and AG Grid. This application demonstrates advanced data grid capabilities and frontend concepts utilized by high-performant systems.
+A professional investment portfolio tracking application built with Next.js 14, TypeScript, and AG Grid. This application demonstrates advanced data grid capabilities and frontend concepts utilized by high-performant systems.
 
 <img width="1245" height="1101" alt="Screenshot 2025-11-25 at 7 06 45 AM" src="https://github.com/user-attachments/assets/22aab414-b2ee-45fe-aa1f-f39310771f68" />
 
