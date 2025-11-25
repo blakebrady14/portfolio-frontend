@@ -2,6 +2,11 @@
 
 A professional investment portfolio tracking application written by Blake Brady and built with Next.js 14, TypeScript, and AG Grid. This application demonstrates advanced data grid capabilities and frontend concepts utilized by high-performant systems.
 
+<img width="1245" height="1101" alt="Screenshot 2025-11-25 at 7 06 45 AM" src="https://github.com/user-attachments/assets/22aab414-b2ee-45fe-aa1f-f39310771f68" />
+
+<img width="1240" height="787" alt="Screenshot 2025-11-25 at 7 45 37 AM" src="https://github.com/user-attachments/assets/f975e5f0-a9e1-4fd0-a70e-f9d6ad4865ae" />
+
+
 ## Features
 
 ### 📊 Advanced Data Grids with AG Grid
